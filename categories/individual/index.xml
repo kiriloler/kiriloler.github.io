@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Individual on Hi! This is kiriloler</title>
-        <link>http://localhost:1313/categories/individual/</link>
+        <link>http://localhost:51650/categories/individual/</link>
         <description>Recent content in Individual on Hi! This is kiriloler</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Hugo Theme Stack Starter</copyright>
-        <lastBuildDate>Thu, 28 Nov 2024 17:16:45 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/individual/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 28 Nov 2024 17:16:45 +0800</lastBuildDate><atom:link href="http://localhost:51650/categories/individual/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>TPH</title>
-        <link>http://localhost:1313/p/tph/</link>
+        <link>http://localhost:51650/p/tph/</link>
         <pubDate>Thu, 28 Nov 2024 17:16:45 +0800</pubDate>
         
-        <guid>http://localhost:1313/p/tph/</guid>
-        <description>&lt;img src="http://localhost:1313/p/tph/cover.png" alt="Featured image of post TPH" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+        <guid>http://localhost:51650/p/tph/</guid>
+        <description>&lt;img src="http://localhost:51650/p/tph/cover.png" alt="Featured image of post TPH" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;&lt;strong&gt;T.P.H.&lt;/strong&gt; is a 2D horror game incorporated with art styles of weirdcore and analog horror. Players will navigate the scientific department of T.P.H., a &lt;font color=Red&gt;deadly&lt;/font&gt; and &lt;font color=Red&gt;dreamy&lt;/font&gt; place. The core mechanics of &lt;strong&gt;T.P.H.&lt;/strong&gt; is interacting with different text descriptions to obtain tools and discover puzzles.&lt;/p&gt;
 &lt;h3 id=&#34;more-infos&#34;&gt;More Infos
 &lt;/h3&gt;&lt;ul&gt;
@@ -39,11 +39,11 @@
         </item>
         <item>
         <title>Rainthm</title>
-        <link>http://localhost:1313/p/rainthm/</link>
+        <link>http://localhost:51650/p/rainthm/</link>
         <pubDate>Sat, 23 Nov 2024 19:40:42 +0800</pubDate>
         
-        <guid>http://localhost:1313/p/rainthm/</guid>
-        <description>&lt;img src="http://localhost:1313/p/rainthm/cover.png" alt="Featured image of post Rainthm" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+        <guid>http://localhost:51650/p/rainthm/</guid>
+        <description>&lt;img src="http://localhost:51650/p/rainthm/cover.png" alt="Featured image of post Rainthm" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Rainthm&lt;/strong&gt;(Rain + Rhythm) is a platformer + rhythm game set in a futuristic pixel world. Players can control &lt;em&gt;Ash&lt;/em&gt;, the cyber witch, to move around the map and slash falling notes(Rains) on time.&lt;/p&gt;
 &lt;h3 id=&#34;more-infos&#34;&gt;More infos:
 &lt;/h3&gt;&lt;ul&gt;
@@ -64,17 +64,16 @@
 &lt;h3 id=&#34;animation&#34;&gt;Animation
 &lt;/h3&gt;&lt;p&gt;It is my first time to use pixel art in my game. As it turns out, pixel art is much harder than I thought. With a few pixels, a fabulous pixel artist can form a decent structure of an item, which takes a lot of practice. For me, I almost gone mad trying to capture the flow of hairs and movement of feet. Thanks to &lt;a class=&#34;link&#34; href=&#34;https://www.aseprite.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;&lt;strong&gt;Aseprite&lt;/strong&gt;&lt;/a&gt;, a software specialized for pixel arts, I can do my job much easier and quicker. Even so, it still takes me almost a half day to finish the running animation of Ash(which is only 9 images lol) Anyways, this is definitely a sweet experience that improves my art skills, and I&amp;rsquo;m really proud of myself making those animations.&lt;/p&gt;
-&lt;div align=center&gt;&lt;img src=&#34;WAR.gif&#34; width=30%&gt;&lt;img src=&#34;Witchgirl_Attack_Left.gif&#34; width=30%&gt;&lt;img src=&#34;exp.gif&#34; width=30%&gt;&lt;/div&gt;
-&lt;h3 id=&#34;heading&#34;&gt;
-&lt;/h3&gt;</description>
+&lt;div align=center&gt;&lt;img src=&#34;WAR.gif&#34; width=30%&gt;&lt;img src=&#34;Witch.gif&#34; width=30%&gt;&lt;img src=&#34;exp.gif&#34; width=30%&gt;&lt;/div&gt;
+</description>
         </item>
         <item>
         <title>By Your Side</title>
-        <link>http://localhost:1313/p/by-your-side/</link>
+        <link>http://localhost:51650/p/by-your-side/</link>
         <pubDate>Sat, 23 Nov 2024 14:39:10 +0800</pubDate>
         
-        <guid>http://localhost:1313/p/by-your-side/</guid>
-        <description>&lt;img src="http://localhost:1313/p/by-your-side/cover.png" alt="Featured image of post By Your Side" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+        <guid>http://localhost:51650/p/by-your-side/</guid>
+        <description>&lt;img src="http://localhost:51650/p/by-your-side/cover.png" alt="Featured image of post By Your Side" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;&lt;strong&gt;By Your Side&lt;/strong&gt; is a rhythm game centered around the theme of school bullying. The game tells narrates via the diary of a boy abused by his classmates. One notable feature is the notes players will encounter. Aside from traditional notes in rhythm games, I add some new notes to enrich the game content.&lt;/p&gt;
 &lt;div align=center&gt;&lt;img src=&#34;1.png&#34; width=33%&gt;&lt;img src=&#34;2.png&#34; width=33%&gt;&lt;img src=&#34;3.png&#34; width=33%&gt;&lt;/div&gt;
 &lt;h3 id=&#34;more-infos&#34;&gt;More Infos

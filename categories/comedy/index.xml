@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Comedy on Hi! This is kiriloler</title>
-        <link>http://localhost:1313/categories/comedy/</link>
+        <link>http://localhost:51650/categories/comedy/</link>
         <description>Recent content in Comedy on Hi! This is kiriloler</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Hugo Theme Stack Starter</copyright>
-        <lastBuildDate>Sat, 23 Nov 2024 18:40:39 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/comedy/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 23 Nov 2024 18:40:39 +0800</lastBuildDate><atom:link href="http://localhost:51650/categories/comedy/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Let Me Do It For You</title>
-        <link>http://localhost:1313/p/let-me-do-it-for-you/</link>
+        <link>http://localhost:51650/p/let-me-do-it-for-you/</link>
         <pubDate>Sat, 23 Nov 2024 18:40:39 +0800</pubDate>
         
-        <guid>http://localhost:1313/p/let-me-do-it-for-you/</guid>
-        <description>&lt;img src="http://localhost:1313/p/let-me-do-it-for-you/cover.png" alt="Featured image of post Let Me Do It For You" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+        <guid>http://localhost:51650/p/let-me-do-it-for-you/</guid>
+        <description>&lt;img src="http://localhost:51650/p/let-me-do-it-for-you/cover.png" alt="Featured image of post Let Me Do It For You" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Let Me Do It For You&lt;/strong&gt; is a weird platformer about a dog who can extend his nose and, not only the nose can stretch GREAT GREAT GREAT distance, it can also change directions lmao.&lt;/p&gt;
 &lt;h3 id=&#34;more-infos&#34;&gt;More Infos:
 &lt;/h3&gt;&lt;ul&gt;

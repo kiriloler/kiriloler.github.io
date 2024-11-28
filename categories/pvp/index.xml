@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>PVP on Hi! This is kiriloler</title>
-        <link>http://localhost:1313/categories/pvp/</link>
+        <link>http://localhost:51650/categories/pvp/</link>
         <description>Recent content in PVP on Hi! This is kiriloler</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Hugo Theme Stack Starter</copyright>
-        <lastBuildDate>Sat, 23 Nov 2024 17:38:43 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/pvp/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 23 Nov 2024 17:38:43 +0800</lastBuildDate><atom:link href="http://localhost:51650/categories/pvp/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Quazo&#39;s Gambit</title>
-        <link>http://localhost:1313/p/quazos-gambit/</link>
+        <link>http://localhost:51650/p/quazos-gambit/</link>
         <pubDate>Sat, 23 Nov 2024 17:38:43 +0800</pubDate>
         
-        <guid>http://localhost:1313/p/quazos-gambit/</guid>
-        <description>&lt;img src="http://localhost:1313/p/quazos-gambit/cover.png" alt="Featured image of post Quazo&#39;s Gambit" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+        <guid>http://localhost:51650/p/quazos-gambit/</guid>
+        <description>&lt;img src="http://localhost:51650/p/quazos-gambit/cover.png" alt="Featured image of post Quazo&#39;s Gambit" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Quazo&amp;rsquo;s Gambit&lt;/strong&gt; is a 4 player PVP boardgame set in a fantasy magical world. Players will start with one of the four characters, each with different skills and properties. The goal of the game is store as many jewels as possible in the center bank. To achieve the goal, players can either collect jewels around the map, or steal from other players via battles.&lt;/p&gt;
 &lt;h3 id=&#34;more-infos&#34;&gt;More Infos:
 &lt;/h3&gt;&lt;ul&gt;
