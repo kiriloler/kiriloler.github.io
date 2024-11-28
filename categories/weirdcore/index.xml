@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Weirdcore on Hi! This is kiriloler</title>
+        <link>http://localhost:1313/categories/weirdcore/</link>
+        <description>Recent content in Weirdcore on Hi! This is kiriloler</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Hugo Theme Stack Starter</copyright>
+        <lastBuildDate>Thu, 28 Nov 2024 17:16:45 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/weirdcore/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>T.P.H.</title>
+        <link>http://localhost:1313/p/t.p.h./</link>
+        <pubDate>Thu, 28 Nov 2024 17:16:45 +0800</pubDate>
+        
+        <guid>http://localhost:1313/p/t.p.h./</guid>
+        <description>&lt;img src="http://localhost:1313/p/t.p.h./cover.png" alt="Featured image of post T.P.H." /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;T.P.H.&lt;/strong&gt; is a 2D horror game incorporated with art styles of weirdcore and analog horror. Players will navigate the scientific department of T.P.H., a &lt;font color=Red&gt;deadly&lt;/font&gt; and &lt;font color=Red&gt;dreamy&lt;/font&gt; place. The core mechanics of &lt;strong&gt;T.P.H.&lt;/strong&gt; is interacting with different text descriptions to obtain tools and discover puzzles.&lt;/p&gt;
+&lt;h3 id=&#34;more-infos&#34;&gt;More Infos
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Link to itch.io: &lt;a class=&#34;link&#34; href=&#34;https://kiriloler.itch.io/tph&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://kiriloler.itch.io/tph&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;personal-thoughts&#34;&gt;Personal Thoughts
+&lt;/h2&gt;&lt;h3 id=&#34;text-based-games&#34;&gt;Text-Based Games
+&lt;/h3&gt;&lt;p&gt;In most games, texts are messengers of stories. In those text-based games, however, they are interactable objects. After playing several fantastic text-based games, I said to myself: &amp;ldquo;Isn&amp;rsquo;t this mechanic a perfect match for puzzle games?&amp;rdquo; And that is the inspiration of &lt;strong&gt;T.P.H.&lt;/strong&gt;&lt;/p&gt;
+&lt;div align = center&gt;&lt;img src=&#34;2.jpg&#34; width=50%&gt;&lt;img src=&#34;3.png&#34; width=50% height=50%&gt;&lt;/div&gt;
+&lt;h3 id=&#34;weirdcore&#34;&gt;Weirdcore
+&lt;/h3&gt;&lt;p&gt;Weirdcore to me is a complex sensation. It creates a sense of belonging in an alienated place. When I look at weirdcore images, I can often found elements that are nostalgic or childish: toys, seesaws, slides, birthday cakes&amp;hellip;&amp;hellip;all those childhood items are familiar to me, but only one thing is strange：&lt;/p&gt;
+&lt;p&gt;Nobody is here.&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s right. What makes weirdcore weird is not the its presented items, but its absence in life. Those art pieces are the representations of the childhood playgrounds I had forfeited and abandoned, left with only vague memories that confuses me. I had grown up, with new interests and ambitions, but I shall never forget the happy moments I had with my old friends—they takes a precious part of my soul.&lt;/p&gt;
+&lt;p&gt;Well, I know &lt;strong&gt;T.P.H.&lt;/strong&gt; is a horror game. But besides from thrills and creepiness, I also hope to help some players to retrieve their childhood memories, memories that can support them at dark times.&lt;/p&gt;
+&lt;div align = center&gt;&lt;img src=&#34;1.png&#34; width=60%&gt;&lt;img src=&#34;4.png&#34; width=60%&gt;&lt;img src=&#34;5.png&#34; width=60%&gt;&lt;/div&gt;
+&lt;h3 id=&#34;analog-horror&#34;&gt;Analog Horror
+&lt;/h3&gt;&lt;p&gt;I was introduced to the concept Analog Horror from the game &lt;a class=&#34;link&#34; href=&#34;https://tejas-joshi.itch.io/examination-of-fear&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;strong&gt;Examination of Fear&lt;/strong&gt;&lt;/a&gt;. A truly uncanny game where the players simply needs to evaluate whether a picture is scary. I was so obsessed with such art style and immediately determined to incorporate it into &lt;strong&gt;T.P.H.&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;the-perfect-human&#34;&gt;The Perfect Human
+&lt;/h3&gt;&lt;p&gt;The plot of this game is rather vague, but I actually invested a lot of efforts on it. The story is centered around the concept of &amp;ldquo;TPH&amp;rdquo;, an abbreviation for &amp;ldquo;The Perfect Human&amp;rdquo;. What I want to share from this story is some insights on &lt;em&gt;perfection&lt;/em&gt;. What is &lt;em&gt;perfection&lt;/em&gt;? Does &lt;em&gt;perfection&lt;/em&gt; actually exists? If so, is it truly perfect?&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

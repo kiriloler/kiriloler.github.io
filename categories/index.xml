@@ -7,12 +7,36 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Hugo Theme Stack Starter</copyright>
-        <lastBuildDate>Sat, 23 Nov 2024 19:40:42 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 28 Nov 2024 17:16:45 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Horror</title>
+        <link>http://localhost:1313/categories/horror/</link>
+        <pubDate>Thu, 28 Nov 2024 17:16:45 +0800</pubDate>
+        
+        <guid>http://localhost:1313/categories/horror/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Individual</title>
         <link>http://localhost:1313/categories/individual/</link>
-        <pubDate>Sat, 23 Nov 2024 19:40:42 +0800</pubDate>
+        <pubDate>Thu, 28 Nov 2024 17:16:45 +0800</pubDate>
         
         <guid>http://localhost:1313/categories/individual/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Puzzle</title>
+        <link>http://localhost:1313/categories/puzzle/</link>
+        <pubDate>Thu, 28 Nov 2024 17:16:45 +0800</pubDate>
+        
+        <guid>http://localhost:1313/categories/puzzle/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Weirdcore</title>
+        <link>http://localhost:1313/categories/weirdcore/</link>
+        <pubDate>Thu, 28 Nov 2024 17:16:45 +0800</pubDate>
+        
+        <guid>http://localhost:1313/categories/weirdcore/</guid>
         <description></description>
         </item>
         <item>
