@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Group on Hi! This is kiriloler</title>
+        <link>http://localhost:1313/categories/group/</link>
+        <description>Recent content in Group on Hi! This is kiriloler</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Hugo Theme Stack Starter</copyright>
+        <lastBuildDate>Sat, 23 Nov 2024 18:40:39 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/group/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Let Me Do It For You</title>
+        <link>http://localhost:1313/p/let-me-do-it-for-you/</link>
+        <pubDate>Sat, 23 Nov 2024 18:40:39 +0800</pubDate>
+        
+        <guid>http://localhost:1313/p/let-me-do-it-for-you/</guid>
+        <description>&lt;img src="http://localhost:1313/p/let-me-do-it-for-you/cover.png" alt="Featured image of post Let Me Do It For You" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Let Me Do It For You&lt;/strong&gt; is a weird platformer about a dog who can extend his nose and, not only the nose can stretch GREAT GREAT GREAT distance, it can also change directions lmao.&lt;/p&gt;
+&lt;h3 id=&#34;more-infos&#34;&gt;More Infos:
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Link to itch.io: &lt;a class=&#34;link&#34; href=&#34;https://zeenaz.itch.io/let-me-do-it-for-you&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://zeenaz.itch.io/let-me-do-it-for-you&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;personal-thoughts&#34;&gt;Personal Thoughts
+&lt;/h2&gt;&lt;h3 id=&#34;memes&#34;&gt;Memes
+&lt;/h3&gt;&lt;p&gt;From the title one can tell that this game is inspired from the Borzoi Dog meme. Personally I have nothing much to say about this theme, it is cute and really, really funny.&lt;/p&gt;
+&lt;div align=center&gt;&lt;img src=&#34;player_walk_2.png&#34; width=30%&gt;&lt;/div&gt;
+&lt;h3 id=&#34;growth&#34;&gt;Growth
+&lt;/h3&gt;&lt;p&gt;With the former experiences in mind, I am able to finished my tasks quicker and smoother this time. I also managed to study new components of Unity when facing unfamiliar problems. When creating the nose stretching effects, I researched and find a Unity component called Line Renderer that can draw textured lines. Using scripts to control this component, the body of the nose is drawn as the nose head moves, creating the effect of nose stretching.&lt;/p&gt;
+&lt;div align=center&gt;&lt;img src=&#34;3.png&#34; width=100%&gt;&lt;/div&gt;
+&lt;h3 id=&#34;important-lessons&#34;&gt;Important Lessons
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Always make backup files before making CRAZY changes to the codes&lt;/li&gt;
+&lt;li&gt;Some mechanics are just complex and unnecessary&lt;/li&gt;
+&lt;li&gt;Borzoi Dogs are funny&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>Quazo&#39;s Gambit</title>
+        <link>http://localhost:1313/p/quazos-gambit/</link>
+        <pubDate>Sat, 23 Nov 2024 17:38:43 +0800</pubDate>
+        
+        <guid>http://localhost:1313/p/quazos-gambit/</guid>
+        <description>&lt;img src="http://localhost:1313/p/quazos-gambit/cover.png" alt="Featured image of post Quazo&#39;s Gambit" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Quazo&amp;rsquo;s Gambit&lt;/strong&gt; is a 4 player PVP boardgame set in a fantasy magical world. Players will start with one of the four characters, each with different skills and properties. The goal of the game is store as many jewels as possible in the center bank. To achieve the goal, players can either collect jewels around the map, or steal from other players via battles.&lt;/p&gt;
+&lt;h3 id=&#34;more-infos&#34;&gt;More Infos:
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Team Members:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Matthew Kassorla&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Mateo Salazar&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Alvin Shi&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Qixuan Wang&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.tabletopsimulator.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;strong&gt;Tabletop Simulator&lt;/strong&gt;&lt;/a&gt; Version of the Quazo&amp;rsquo;s Gambit: &lt;a class=&#34;link&#34; href=&#34;https://steamcommunity.com/sharedfiles/filedetails/?id=3356045469&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://steamcommunity.com/sharedfiles/filedetails/?id=3356045469&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;personal-thoughts&#34;&gt;Personal Thoughts
+&lt;/h2&gt;&lt;h3 id=&#34;friendship--passion&#34;&gt;Friendship &amp;amp; Passion
+&lt;/h3&gt;&lt;p&gt;It is truly a honor to work with 3 excellent artists for the creation of this fantastic boardgame. Initially I was shy and afraid to speak with people all around the world, but my teammates accept me with openness and actively shares their gaming and designing experiences. Thanks to their help, I quickly adapted to the new environment and the rich learning atmosphere of USC. To me, Quaso&amp;rsquo;s Gambit is not only a group assignment, but also a representation of our friendships and passions. It is our love for games that brought us together across barriers of geography and culture, and I am genuinely grateful to you guys! Mateo, Matt, and Alvin, thank you all ;)&lt;/p&gt;
+&lt;div align=center&gt;&lt;img src=&#34;3.jpeg&#34; width=50%&gt;&lt;img src=&#34;play.png&#34; width=50%&gt;&lt;img src=&#34;6.jpeg&#34; width=50%&gt;&lt;/div&gt;
+&lt;h3 id=&#34;interesting-mechanics&#34;&gt;Interesting Mechanics
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Randomness vs Certainty:&lt;/strong&gt; When discussing on how we assign the jewels to the tiles at the start of each round, we had a debate about whether to assign them randomly or regularly. After several playtests, we surprisingly found that assigning jewels randomly makes the game much more fun. The fact that random assignment somehow sacrifices fairness lead to the situation where some players are wealthy and some are poor. Thus, poor players will actively initiates battles, the only way for them to seek advantages. The wealthy ones, whose jewels got stolen, will angrily fights back, and game moves on with violence and madness(which is what we want lol)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bank Robbery:&lt;/strong&gt; Players can store jewels in their banks. If a player is near the bank, the player can rob the bank by rolling a double(roll two dice and get the same number) Initially I don&amp;rsquo;t really like the idea because it sounds too powerful. But turns out, this mechanics had really improved the gaming experience. Usually, players will rob the banks at the ending stage because it is when the banks are filled with jewels. Wealthy players usually won&amp;rsquo;t rob the banks because they need to guard theirs. For poor players, however, bank robbery is their last straw to catch. Once they succeed in robbery and escaped from battles, a brilliant comeback is made. Therefore, bank robbery had indeed adds more variability and moments of exciting suspensions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Biomes:&lt;/strong&gt; Each tiles in the grid represents a type of biomes. Specific biomes give advantage to specific characters. When battling in a biome, the advantaged character can roll two dice and choose the greater one. This mechanic naturally instructs the players to move carefully around the grid, since it would be highly dangerous if they land on the biome when another character who benefits from this biome is near. This also encourage the players to stay in their own biome for safety.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div align=center&gt;&lt;img src=&#34;12.jpeg&#34;&gt;&lt;/div&gt;
+&lt;h3 id=&#34;what-i-learned&#34;&gt;What I Learned
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Crazy ideas may be crazily good&lt;/li&gt;
+&lt;li&gt;Always test things out, don&amp;rsquo;t criticize right away&lt;/li&gt;
+&lt;li&gt;Face to face meeting is important in forging strong team bonds&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>Fish-Dang Bot: Rolling Laud</title>
+        <link>http://localhost:1313/p/fish-dang-bot-rolling-laud/</link>
+        <pubDate>Sat, 23 Nov 2024 16:40:28 +0800</pubDate>
+        
+        <guid>http://localhost:1313/p/fish-dang-bot-rolling-laud/</guid>
+        <description>&lt;img src="http://localhost:1313/p/fish-dang-bot-rolling-laud/cover.png" alt="Featured image of post Fish-Dang Bot: Rolling Laud" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Fish-Dang Bot: Rolling Laud&lt;/strong&gt; is a platformer about a fish who dreams to be a dung beetle. The interesting part of this game is that players can enlarge the dung into a stepping stone via rolling them in the dung pool.&lt;/p&gt;
+&lt;h3 id=&#34;more-infos&#34;&gt;More Infos:
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Link to itch.io: &lt;a class=&#34;link&#34; href=&#34;https://zeenaz.itch.io/fish-dang-rolling-laud&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://zeenaz.itch.io/fish-dang-rolling-laud&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;personal-thoughts&#34;&gt;Personal Thoughts
+&lt;/h2&gt;&lt;h3 id=&#34;grab-that-dung&#34;&gt;Grab that Dung!
+&lt;/h3&gt;&lt;p&gt;The first coding task I was given is to write a code for the fish to grab the dung objects. Frankly speaking, I had never approached a problem like this, not even close. I was about to ask my leader to give me an easier task, but somehow I accept it, probably because I don&amp;rsquo;t want them to look down on me.&lt;/p&gt;
+&lt;p&gt;And this decision had made the next few hours a disaster.&lt;/p&gt;
+&lt;p&gt;Right, it should be easy to do the grab. All I have to do is to check whether the player pressed the grab button when the dung is in player&amp;rsquo;s box trigger. As the conditions were fulfilled, I just need to attach the dung to the player. The only problem here is: how to I attach the dung to the player? After several failed trials, I was almost insane, but was still anxious to tell this to my teammates. Luckily, the leader perceived my trouble and actively offers her help. With her suggestions, I finally came up with a idea: if I simply set the dung as the children of the player, the dung will naturally moves with the player. And thus my first task is successfully done.&lt;/p&gt;
+&lt;p&gt;Some reflections: what makes a team a team is that members always supports each other, resulting in a &amp;ldquo;1+1 &amp;gt; 2&amp;rdquo; effect. There is no need to be timid nor worried when helped by others. Instead, it can increase the efficiency and improve our own skills.&lt;/p&gt;
+&lt;div align=center&gt;&lt;img src=&#34;1.png&#34; width=50%&gt;&lt;/div&gt;
+&lt;h3 id=&#34;debugging&#34;&gt;Debugging
+&lt;/h3&gt;&lt;p&gt;At the final stage of the development, a serious bug was discovered. Because everyone is busy, our leader decides to neglect the bug. However, I know that this game will become partially unplayable if the bug isn&amp;rsquo;t resolved. Therefore, I quickly finished my part and offers to debug. The bug is about jumping malfunctions on the dung platform. After an examination of the source scripts, I hypothesized that the problem is due to the ray detectors shoot out from the player. When the player stands on the dung, the rays failed to reach the dung, thereby disabling jumping(if rays detects the dung, it will change player status to grounded, so jumping would be allowed) The bug was them solved by simply adding new ray that shoots further. Personally, I think this is my greatest contribution to the team.&lt;/p&gt;
+&lt;div align=center&gt;&lt;img src=&#34;3.png&#34; width=50%&gt;&lt;/div&gt;
+&lt;h3 id=&#34;dream&#34;&gt;Dream
+&lt;/h3&gt;&lt;p&gt;If a fish can become a dung beetle, then there should be no way I can&amp;rsquo;t be a game designer XD&lt;/p&gt;
+&lt;div align=center&gt;&lt;img src=&#34;2.png&#34; width=50%&gt;&lt;/div&gt;
+&lt;h3 id=&#34;important-lessons&#34;&gt;Important Lessons
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Sharing progress is required, use professional platforms such as GitHub&lt;/li&gt;
+&lt;li&gt;Always make sure the members are using the same Unity versions&lt;/li&gt;
+&lt;li&gt;do not touch the project files of others!!!!!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

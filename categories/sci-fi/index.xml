@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Sci-Fi on Hi! This is kiriloler</title>
+        <link>http://localhost:1313/categories/sci-fi/</link>
+        <description>Recent content in Sci-Fi on Hi! This is kiriloler</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Hugo Theme Stack Starter</copyright>
+        <lastBuildDate>Sat, 23 Nov 2024 19:40:42 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/sci-fi/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Rainthm</title>
+        <link>http://localhost:1313/p/rainthm/</link>
+        <pubDate>Sat, 23 Nov 2024 19:40:42 +0800</pubDate>
+        
+        <guid>http://localhost:1313/p/rainthm/</guid>
+        <description>&lt;img src="http://localhost:1313/p/rainthm/cover.png" alt="Featured image of post Rainthm" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Rainthm&lt;/strong&gt;(Rain + Rhythm) is a platformer + rhythm game set in a futuristic pixel world. Players can control &lt;em&gt;Ash&lt;/em&gt;, the cyber witch, to move around the map and slash falling notes(Rains) on time.&lt;/p&gt;
+&lt;h3 id=&#34;more-infos&#34;&gt;More infos:
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Link to itch.io: &lt;a class=&#34;link&#34; href=&#34;https://kiriloler.itch.io/rainthm&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://kiriloler.itch.io/rainthm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Trailer: &lt;a class=&#34;link&#34; href=&#34;https://youtu.be/7wGTYPIoTkg&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://youtu.be/7wGTYPIoTkg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Full Playthrough: &lt;a class=&#34;link&#34; href=&#34;https://youtu.be/oCYSl_lJfpQ&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://youtu.be/oCYSl_lJfpQ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;personal-thoughts&#34;&gt;Personal Thoughts
+&lt;/h2&gt;&lt;h3 id=&#34;narrating&#34;&gt;Narrating
+&lt;/h3&gt;&lt;p&gt;If you have tried out the game, you probably can tell that the narrative style is inspired from &lt;a class=&#34;link&#34; href=&#34;https://katanazero.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;strong&gt;Katana Zero&lt;/strong&gt;&lt;/a&gt; (If u haven&amp;rsquo;t played it I strongly recommend) One of my favorite aspect of &lt;strong&gt;Katana Zero&lt;/strong&gt; is its intriguing story: &lt;details&gt;&lt;summary&gt;&lt;strong&gt;Spoiler Alert&lt;/strong&gt;: Will reveal plots of both &lt;strong&gt;Katana Zero&lt;/strong&gt; and &lt;strong&gt;Rainthm&lt;/strong&gt;&lt;/summary&gt;&lt;p&gt;When the protagonist, code name &lt;em&gt;Dragon&lt;/em&gt;, falls asleep at night, the narrative often flashes back to a distant past where, a little boy and girl were haunted by a mysterious figure. The scene will end abruptly, then repeats again and again when &lt;em&gt;Dragon&lt;/em&gt; goes to bed, each time with some slight changes or progressions. On the first thought, I simply assumes that the little boy must be &lt;em&gt;Dragon&lt;/em&gt;, but in the last repetition of the scene it was revealed that the mysterious figure is the &lt;em&gt;Dragon&lt;/em&gt; instead. Such twist of the plot had a stunning effect in which I can never forget. So, in &lt;strong&gt;Rainthm&lt;/strong&gt;, I used similar techniques to trike the players into thinking the flashbacks are relating to the protagonist&amp;rsquo;s past, but actually something else.&lt;div align=center&gt;&lt;img src=&#34;narrative.png&#34;&gt;&lt;/div&gt;&lt;/p&gt;&lt;/details&gt;&lt;/p&gt;
+&lt;h3 id=&#34;ash&#34;&gt;Ash
+&lt;/h3&gt;&lt;p&gt;&lt;em&gt;Ash&lt;/em&gt; is the protagonist, the cool cyber witch. Her name is transformed from the Overwatch character &lt;em&gt;Ashe&lt;/em&gt;. They also share likewise appearances: both got white hairs and a hat. &lt;em&gt;Ash&lt;/em&gt; is a cold warrior with heart. She don&amp;rsquo;t speak much, but she do cares about the corruptions in the society and is willing to fight for it. If I have to use some words to describe her, I would say: A lonely rebel.&lt;/p&gt;
+&lt;div align=center&gt;&lt;img src=&#34;ash.png&#34; width=30% height=30%&gt;&lt;img src=&#34;ash2.png&#34; width=30% height=30%&gt;&lt;/div&gt;
+&lt;h3 id=&#34;animation&#34;&gt;Animation
+&lt;/h3&gt;&lt;p&gt;It is my first time to use pixel art in my game. As it turns out, pixel art is much harder than I thought. With a few pixels, a fabulous pixel artist can form a decent structure of an item, which takes a lot of practice. For me, I almost gone mad trying to capture the flow of hairs and movement of feet. Thanks to &lt;a class=&#34;link&#34; href=&#34;https://www.aseprite.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;strong&gt;Aseprite&lt;/strong&gt;&lt;/a&gt;, a software specialized for pixel arts, I can do my job much easier and quicker. Even so, it still takes me almost a half day to finish the running animation of Ash(which is only 9 images lol) Anyways, this is definitely a sweet experience that improves my art skills, and I&amp;rsquo;m really proud of myself making those animations.&lt;/p&gt;
+&lt;div align=center&gt;&lt;img src=&#34;WAR.gif&#34; width=30%&gt;&lt;img src=&#34;Witchgirl_Attack_Left.gif&#34; width=30%&gt;&lt;img src=&#34;exp.gif&#34; width=30%&gt;&lt;/div&gt;
+&lt;h3 id=&#34;heading&#34;&gt;
+&lt;/h3&gt;</description>
+        </item>
+        <item>
+        <title>Fish-Dang Bot: Rolling Laud</title>
+        <link>http://localhost:1313/p/fish-dang-bot-rolling-laud/</link>
+        <pubDate>Sat, 23 Nov 2024 16:40:28 +0800</pubDate>
+        
+        <guid>http://localhost:1313/p/fish-dang-bot-rolling-laud/</guid>
+        <description>&lt;img src="http://localhost:1313/p/fish-dang-bot-rolling-laud/cover.png" alt="Featured image of post Fish-Dang Bot: Rolling Laud" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Fish-Dang Bot: Rolling Laud&lt;/strong&gt; is a platformer about a fish who dreams to be a dung beetle. The interesting part of this game is that players can enlarge the dung into a stepping stone via rolling them in the dung pool.&lt;/p&gt;
+&lt;h3 id=&#34;more-infos&#34;&gt;More Infos:
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Link to itch.io: &lt;a class=&#34;link&#34; href=&#34;https://zeenaz.itch.io/fish-dang-rolling-laud&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://zeenaz.itch.io/fish-dang-rolling-laud&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;personal-thoughts&#34;&gt;Personal Thoughts
+&lt;/h2&gt;&lt;h3 id=&#34;grab-that-dung&#34;&gt;Grab that Dung!
+&lt;/h3&gt;&lt;p&gt;The first coding task I was given is to write a code for the fish to grab the dung objects. Frankly speaking, I had never approached a problem like this, not even close. I was about to ask my leader to give me an easier task, but somehow I accept it, probably because I don&amp;rsquo;t want them to look down on me.&lt;/p&gt;
+&lt;p&gt;And this decision had made the next few hours a disaster.&lt;/p&gt;
+&lt;p&gt;Right, it should be easy to do the grab. All I have to do is to check whether the player pressed the grab button when the dung is in player&amp;rsquo;s box trigger. As the conditions were fulfilled, I just need to attach the dung to the player. The only problem here is: how to I attach the dung to the player? After several failed trials, I was almost insane, but was still anxious to tell this to my teammates. Luckily, the leader perceived my trouble and actively offers her help. With her suggestions, I finally came up with a idea: if I simply set the dung as the children of the player, the dung will naturally moves with the player. And thus my first task is successfully done.&lt;/p&gt;
+&lt;p&gt;Some reflections: what makes a team a team is that members always supports each other, resulting in a &amp;ldquo;1+1 &amp;gt; 2&amp;rdquo; effect. There is no need to be timid nor worried when helped by others. Instead, it can increase the efficiency and improve our own skills.&lt;/p&gt;
+&lt;div align=center&gt;&lt;img src=&#34;1.png&#34; width=50%&gt;&lt;/div&gt;
+&lt;h3 id=&#34;debugging&#34;&gt;Debugging
+&lt;/h3&gt;&lt;p&gt;At the final stage of the development, a serious bug was discovered. Because everyone is busy, our leader decides to neglect the bug. However, I know that this game will become partially unplayable if the bug isn&amp;rsquo;t resolved. Therefore, I quickly finished my part and offers to debug. The bug is about jumping malfunctions on the dung platform. After an examination of the source scripts, I hypothesized that the problem is due to the ray detectors shoot out from the player. When the player stands on the dung, the rays failed to reach the dung, thereby disabling jumping(if rays detects the dung, it will change player status to grounded, so jumping would be allowed) The bug was them solved by simply adding new ray that shoots further. Personally, I think this is my greatest contribution to the team.&lt;/p&gt;
+&lt;div align=center&gt;&lt;img src=&#34;3.png&#34; width=50%&gt;&lt;/div&gt;
+&lt;h3 id=&#34;dream&#34;&gt;Dream
+&lt;/h3&gt;&lt;p&gt;If a fish can become a dung beetle, then there should be no way I can&amp;rsquo;t be a game designer XD&lt;/p&gt;
+&lt;div align=center&gt;&lt;img src=&#34;2.png&#34; width=50%&gt;&lt;/div&gt;
+&lt;h3 id=&#34;important-lessons&#34;&gt;Important Lessons
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Sharing progress is required, use professional platforms such as GitHub&lt;/li&gt;
+&lt;li&gt;Always make sure the members are using the same Unity versions&lt;/li&gt;
+&lt;li&gt;do not touch the project files of others!!!!!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

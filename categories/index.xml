@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on Hi! This is kiriloler</title>
+        <link>http://localhost:1313/categories/</link>
+        <description>Recent content in Categories on Hi! This is kiriloler</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Hugo Theme Stack Starter</copyright>
+        <lastBuildDate>Sat, 23 Nov 2024 20:40:04 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Horror</title>
+        <link>http://localhost:1313/categories/horror/</link>
+        <pubDate>Sat, 23 Nov 2024 20:40:04 +0800</pubDate>
+        
+        <guid>http://localhost:1313/categories/horror/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Individual</title>
+        <link>http://localhost:1313/categories/individual/</link>
+        <pubDate>Sat, 23 Nov 2024 20:40:04 +0800</pubDate>
+        
+        <guid>http://localhost:1313/categories/individual/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Puzzle</title>
+        <link>http://localhost:1313/categories/puzzle/</link>
+        <pubDate>Sat, 23 Nov 2024 20:40:04 +0800</pubDate>
+        
+        <guid>http://localhost:1313/categories/puzzle/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Weirdcore</title>
+        <link>http://localhost:1313/categories/weirdcore/</link>
+        <pubDate>Sat, 23 Nov 2024 20:40:04 +0800</pubDate>
+        
+        <guid>http://localhost:1313/categories/weirdcore/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Rhythm</title>
+        <link>http://localhost:1313/categories/rhythm/</link>
+        <pubDate>Sat, 23 Nov 2024 19:40:42 +0800</pubDate>
+        
+        <guid>http://localhost:1313/categories/rhythm/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Sci-Fi</title>
+        <link>http://localhost:1313/categories/sci-fi/</link>
+        <pubDate>Sat, 23 Nov 2024 19:40:42 +0800</pubDate>
+        
+        <guid>http://localhost:1313/categories/sci-fi/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Comedy</title>
+        <link>http://localhost:1313/categories/comedy/</link>
+        <pubDate>Sat, 23 Nov 2024 18:40:39 +0800</pubDate>
+        
+        <guid>http://localhost:1313/categories/comedy/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Group</title>
+        <link>http://localhost:1313/categories/group/</link>
+        <pubDate>Sat, 23 Nov 2024 18:40:39 +0800</pubDate>
+        
+        <guid>http://localhost:1313/categories/group/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Platformer</title>
+        <link>http://localhost:1313/categories/platformer/</link>
+        <pubDate>Sat, 23 Nov 2024 18:40:39 +0800</pubDate>
+        
+        <guid>http://localhost:1313/categories/platformer/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Fantasy</title>
+        <link>http://localhost:1313/categories/fantasy/</link>
+        <pubDate>Sat, 23 Nov 2024 17:38:43 +0800</pubDate>
+        
+        <guid>http://localhost:1313/categories/fantasy/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>PVP</title>
+        <link>http://localhost:1313/categories/pvp/</link>
+        <pubDate>Sat, 23 Nov 2024 17:38:43 +0800</pubDate>
+        
+        <guid>http://localhost:1313/categories/pvp/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

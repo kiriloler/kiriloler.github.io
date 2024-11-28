@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Comedy on Hi! This is kiriloler</title>
+        <link>http://localhost:1313/categories/comedy/</link>
+        <description>Recent content in Comedy on Hi! This is kiriloler</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Hugo Theme Stack Starter</copyright>
+        <lastBuildDate>Sat, 23 Nov 2024 18:40:39 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/comedy/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Let Me Do It For You</title>
+        <link>http://localhost:1313/p/let-me-do-it-for-you/</link>
+        <pubDate>Sat, 23 Nov 2024 18:40:39 +0800</pubDate>
+        
+        <guid>http://localhost:1313/p/let-me-do-it-for-you/</guid>
+        <description>&lt;img src="http://localhost:1313/p/let-me-do-it-for-you/cover.png" alt="Featured image of post Let Me Do It For You" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Let Me Do It For You&lt;/strong&gt; is a weird platformer about a dog who can extend his nose and, not only the nose can stretch GREAT GREAT GREAT distance, it can also change directions lmao.&lt;/p&gt;
+&lt;h3 id=&#34;more-infos&#34;&gt;More Infos:
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Link to itch.io: &lt;a class=&#34;link&#34; href=&#34;https://zeenaz.itch.io/let-me-do-it-for-you&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://zeenaz.itch.io/let-me-do-it-for-you&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;personal-thoughts&#34;&gt;Personal Thoughts
+&lt;/h2&gt;&lt;h3 id=&#34;memes&#34;&gt;Memes
+&lt;/h3&gt;&lt;p&gt;From the title one can tell that this game is inspired from the Borzoi Dog meme. Personally I have nothing much to say about this theme, it is cute and really, really funny.&lt;/p&gt;
+&lt;div align=center&gt;&lt;img src=&#34;player_walk_2.png&#34; width=30%&gt;&lt;/div&gt;
+&lt;h3 id=&#34;growth&#34;&gt;Growth
+&lt;/h3&gt;&lt;p&gt;With the former experiences in mind, I am able to finished my tasks quicker and smoother this time. I also managed to study new components of Unity when facing unfamiliar problems. When creating the nose stretching effects, I researched and find a Unity component called Line Renderer that can draw textured lines. Using scripts to control this component, the body of the nose is drawn as the nose head moves, creating the effect of nose stretching.&lt;/p&gt;
+&lt;div align=center&gt;&lt;img src=&#34;3.png&#34; width=100%&gt;&lt;/div&gt;
+&lt;h3 id=&#34;important-lessons&#34;&gt;Important Lessons
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Always make backup files before making CRAZY changes to the codes&lt;/li&gt;
+&lt;li&gt;Some mechanics are just complex and unnecessary&lt;/li&gt;
+&lt;li&gt;Borzoi Dogs are funny&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

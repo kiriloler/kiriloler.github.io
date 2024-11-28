@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Fantasy on Hi! This is kiriloler</title>
+        <link>http://localhost:1313/categories/fantasy/</link>
+        <description>Recent content in Fantasy on Hi! This is kiriloler</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Hugo Theme Stack Starter</copyright>
+        <lastBuildDate>Sat, 23 Nov 2024 17:38:43 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/fantasy/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Quazo&#39;s Gambit</title>
+        <link>http://localhost:1313/p/quazos-gambit/</link>
+        <pubDate>Sat, 23 Nov 2024 17:38:43 +0800</pubDate>
+        
+        <guid>http://localhost:1313/p/quazos-gambit/</guid>
+        <description>&lt;img src="http://localhost:1313/p/quazos-gambit/cover.png" alt="Featured image of post Quazo&#39;s Gambit" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Quazo&amp;rsquo;s Gambit&lt;/strong&gt; is a 4 player PVP boardgame set in a fantasy magical world. Players will start with one of the four characters, each with different skills and properties. The goal of the game is store as many jewels as possible in the center bank. To achieve the goal, players can either collect jewels around the map, or steal from other players via battles.&lt;/p&gt;
+&lt;h3 id=&#34;more-infos&#34;&gt;More Infos:
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Team Members:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Matthew Kassorla&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Mateo Salazar&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Alvin Shi&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Qixuan Wang&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.tabletopsimulator.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;strong&gt;Tabletop Simulator&lt;/strong&gt;&lt;/a&gt; Version of the Quazo&amp;rsquo;s Gambit: &lt;a class=&#34;link&#34; href=&#34;https://steamcommunity.com/sharedfiles/filedetails/?id=3356045469&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://steamcommunity.com/sharedfiles/filedetails/?id=3356045469&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;personal-thoughts&#34;&gt;Personal Thoughts
+&lt;/h2&gt;&lt;h3 id=&#34;friendship--passion&#34;&gt;Friendship &amp;amp; Passion
+&lt;/h3&gt;&lt;p&gt;It is truly a honor to work with 3 excellent artists for the creation of this fantastic boardgame. Initially I was shy and afraid to speak with people all around the world, but my teammates accept me with openness and actively shares their gaming and designing experiences. Thanks to their help, I quickly adapted to the new environment and the rich learning atmosphere of USC. To me, Quaso&amp;rsquo;s Gambit is not only a group assignment, but also a representation of our friendships and passions. It is our love for games that brought us together across barriers of geography and culture, and I am genuinely grateful to you guys! Mateo, Matt, and Alvin, thank you all ;)&lt;/p&gt;
+&lt;div align=center&gt;&lt;img src=&#34;3.jpeg&#34; width=50%&gt;&lt;img src=&#34;play.png&#34; width=50%&gt;&lt;img src=&#34;6.jpeg&#34; width=50%&gt;&lt;/div&gt;
+&lt;h3 id=&#34;interesting-mechanics&#34;&gt;Interesting Mechanics
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Randomness vs Certainty:&lt;/strong&gt; When discussing on how we assign the jewels to the tiles at the start of each round, we had a debate about whether to assign them randomly or regularly. After several playtests, we surprisingly found that assigning jewels randomly makes the game much more fun. The fact that random assignment somehow sacrifices fairness lead to the situation where some players are wealthy and some are poor. Thus, poor players will actively initiates battles, the only way for them to seek advantages. The wealthy ones, whose jewels got stolen, will angrily fights back, and game moves on with violence and madness(which is what we want lol)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bank Robbery:&lt;/strong&gt; Players can store jewels in their banks. If a player is near the bank, the player can rob the bank by rolling a double(roll two dice and get the same number) Initially I don&amp;rsquo;t really like the idea because it sounds too powerful. But turns out, this mechanics had really improved the gaming experience. Usually, players will rob the banks at the ending stage because it is when the banks are filled with jewels. Wealthy players usually won&amp;rsquo;t rob the banks because they need to guard theirs. For poor players, however, bank robbery is their last straw to catch. Once they succeed in robbery and escaped from battles, a brilliant comeback is made. Therefore, bank robbery had indeed adds more variability and moments of exciting suspensions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Biomes:&lt;/strong&gt; Each tiles in the grid represents a type of biomes. Specific biomes give advantage to specific characters. When battling in a biome, the advantaged character can roll two dice and choose the greater one. This mechanic naturally instructs the players to move carefully around the grid, since it would be highly dangerous if they land on the biome when another character who benefits from this biome is near. This also encourage the players to stay in their own biome for safety.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div align=center&gt;&lt;img src=&#34;12.jpeg&#34;&gt;&lt;/div&gt;
+&lt;h3 id=&#34;what-i-learned&#34;&gt;What I Learned
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Crazy ideas may be crazily good&lt;/li&gt;
+&lt;li&gt;Always test things out, don&amp;rsquo;t criticize right away&lt;/li&gt;
+&lt;li&gt;Face to face meeting is important in forging strong team bonds&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
