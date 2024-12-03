@@ -2,97 +2,97 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on Hi! This is kiriloler</title>
-        <link>http://localhost:51650/categories/</link>
+        <link>http://localhost:1313/categories/</link>
         <description>Recent content in Categories on Hi! This is kiriloler</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Hugo Theme Stack Starter</copyright>
-        <lastBuildDate>Thu, 28 Nov 2024 17:16:45 +0800</lastBuildDate><atom:link href="http://localhost:51650/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 28 Oct 2024 20:16:45 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Horror</title>
-        <link>http://localhost:51650/categories/horror/</link>
-        <pubDate>Thu, 28 Nov 2024 17:16:45 +0800</pubDate>
+        <link>http://localhost:1313/categories/horror/</link>
+        <pubDate>Mon, 28 Oct 2024 20:16:45 +0800</pubDate>
         
-        <guid>http://localhost:51650/categories/horror/</guid>
+        <guid>http://localhost:1313/categories/horror/</guid>
         <description></description>
         </item>
         <item>
         <title>Individual</title>
-        <link>http://localhost:51650/categories/individual/</link>
-        <pubDate>Thu, 28 Nov 2024 17:16:45 +0800</pubDate>
+        <link>http://localhost:1313/categories/individual/</link>
+        <pubDate>Mon, 28 Oct 2024 20:16:45 +0800</pubDate>
         
-        <guid>http://localhost:51650/categories/individual/</guid>
+        <guid>http://localhost:1313/categories/individual/</guid>
         <description></description>
         </item>
         <item>
         <title>Puzzle</title>
-        <link>http://localhost:51650/categories/puzzle/</link>
-        <pubDate>Thu, 28 Nov 2024 17:16:45 +0800</pubDate>
+        <link>http://localhost:1313/categories/puzzle/</link>
+        <pubDate>Mon, 28 Oct 2024 20:16:45 +0800</pubDate>
         
-        <guid>http://localhost:51650/categories/puzzle/</guid>
+        <guid>http://localhost:1313/categories/puzzle/</guid>
         <description></description>
         </item>
         <item>
         <title>Weirdcore</title>
-        <link>http://localhost:51650/categories/weirdcore/</link>
-        <pubDate>Thu, 28 Nov 2024 17:16:45 +0800</pubDate>
+        <link>http://localhost:1313/categories/weirdcore/</link>
+        <pubDate>Mon, 28 Oct 2024 20:16:45 +0800</pubDate>
         
-        <guid>http://localhost:51650/categories/weirdcore/</guid>
+        <guid>http://localhost:1313/categories/weirdcore/</guid>
         <description></description>
         </item>
         <item>
         <title>Rhythm</title>
-        <link>http://localhost:51650/categories/rhythm/</link>
-        <pubDate>Sat, 23 Nov 2024 19:40:42 +0800</pubDate>
+        <link>http://localhost:1313/categories/rhythm/</link>
+        <pubDate>Mon, 28 Oct 2024 19:40:42 +0800</pubDate>
         
-        <guid>http://localhost:51650/categories/rhythm/</guid>
+        <guid>http://localhost:1313/categories/rhythm/</guid>
         <description></description>
         </item>
         <item>
         <title>Sci-Fi</title>
-        <link>http://localhost:51650/categories/sci-fi/</link>
-        <pubDate>Sat, 23 Nov 2024 19:40:42 +0800</pubDate>
+        <link>http://localhost:1313/categories/sci-fi/</link>
+        <pubDate>Mon, 28 Oct 2024 19:40:42 +0800</pubDate>
         
-        <guid>http://localhost:51650/categories/sci-fi/</guid>
+        <guid>http://localhost:1313/categories/sci-fi/</guid>
         <description></description>
         </item>
         <item>
         <title>Comedy</title>
-        <link>http://localhost:51650/categories/comedy/</link>
-        <pubDate>Sat, 23 Nov 2024 18:40:39 +0800</pubDate>
+        <link>http://localhost:1313/categories/comedy/</link>
+        <pubDate>Mon, 28 Oct 2024 18:40:39 +0800</pubDate>
         
-        <guid>http://localhost:51650/categories/comedy/</guid>
+        <guid>http://localhost:1313/categories/comedy/</guid>
         <description></description>
         </item>
         <item>
         <title>Group</title>
-        <link>http://localhost:51650/categories/group/</link>
-        <pubDate>Sat, 23 Nov 2024 18:40:39 +0800</pubDate>
+        <link>http://localhost:1313/categories/group/</link>
+        <pubDate>Mon, 28 Oct 2024 18:40:39 +0800</pubDate>
         
-        <guid>http://localhost:51650/categories/group/</guid>
+        <guid>http://localhost:1313/categories/group/</guid>
         <description></description>
         </item>
         <item>
         <title>Platformer</title>
-        <link>http://localhost:51650/categories/platformer/</link>
-        <pubDate>Sat, 23 Nov 2024 18:40:39 +0800</pubDate>
+        <link>http://localhost:1313/categories/platformer/</link>
+        <pubDate>Mon, 28 Oct 2024 18:40:39 +0800</pubDate>
         
-        <guid>http://localhost:51650/categories/platformer/</guid>
+        <guid>http://localhost:1313/categories/platformer/</guid>
         <description></description>
         </item>
         <item>
         <title>Fantasy</title>
-        <link>http://localhost:51650/categories/fantasy/</link>
-        <pubDate>Sat, 23 Nov 2024 17:38:43 +0800</pubDate>
+        <link>http://localhost:1313/categories/fantasy/</link>
+        <pubDate>Wed, 23 Oct 2024 17:38:43 +0800</pubDate>
         
-        <guid>http://localhost:51650/categories/fantasy/</guid>
+        <guid>http://localhost:1313/categories/fantasy/</guid>
         <description></description>
         </item>
         <item>
         <title>PVP</title>
-        <link>http://localhost:51650/categories/pvp/</link>
-        <pubDate>Sat, 23 Nov 2024 17:38:43 +0800</pubDate>
+        <link>http://localhost:1313/categories/pvp/</link>
+        <pubDate>Wed, 23 Oct 2024 17:38:43 +0800</pubDate>
         
-        <guid>http://localhost:51650/categories/pvp/</guid>
+        <guid>http://localhost:1313/categories/pvp/</guid>
         <description></description>
         </item>
         

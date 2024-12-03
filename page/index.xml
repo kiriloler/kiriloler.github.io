@@ -2,25 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on Hi! This is kiriloler</title>
-        <link>http://localhost:51650/page/</link>
+        <link>http://localhost:1313/page/</link>
         <description>Recent content in Pages on Hi! This is kiriloler</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <copyright>Hugo Theme Stack Starter</copyright>
-        <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:51650/page/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Archives</title>
-        <link>http://localhost:51650/archives/</link>
-        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:51650/archives/</guid>
-        <description></description>
-        </item>
-        <item>
+        <copyright>Hugo Theme Stack Starter</copyright><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>About Me</title>
-        <link>http://localhost:51650/about-me/</link>
-        <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+        <link>http://localhost:1313/about-me/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:51650/about-me/</guid>
+        <guid>http://localhost:1313/about-me/</guid>
         <description>&lt;h4 id=&#34;im-an-amateur-game-developer-from-china-and-i-especially-love-to-play-metroidvania-platformer-and-rhythm-games&#34;&gt;I&amp;rsquo;m an amateur game developer from China, and I especially LOVE to play Metroidvania, platformer, and rhythm games!
 &lt;/h4&gt;&lt;h4 id=&#34;here-are-some-basic-information-about-myself&#34;&gt;Here are some basic information about myself:
 &lt;/h4&gt;&lt;ul&gt;
@@ -33,16 +24,26 @@
     &gt;bilibili&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;youtube page: &lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/@kevinwang4288&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;youtube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;github page for this website: &lt;a class=&#34;link&#34; href=&#34;https://github.com/kiriloler/kiriloler.github.io&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;github&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;thank-you-for-visiting-my-blog&#34;&gt;Thank you for visiting my blog!
 &lt;/h4&gt;</description>
         </item>
         <item>
-        <title>Links</title>
-        <link>http://localhost:51650/links/</link>
+        <title>Archives</title>
+        <link>http://localhost:1313/archives/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:51650/links/</guid>
+        <guid>http://localhost:1313/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Links</title>
+        <link>http://localhost:1313/links/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/links/</guid>
         <description>&lt;p&gt;&lt;strong&gt;Here are some useful links:&lt;/strong&gt;&lt;/p&gt;
 </description>
         </item>

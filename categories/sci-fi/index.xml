@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Sci-Fi on Hi! This is kiriloler</title>
-        <link>http://localhost:51650/categories/sci-fi/</link>
+        <link>http://localhost:1313/categories/sci-fi/</link>
         <description>Recent content in Sci-Fi on Hi! This is kiriloler</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Hugo Theme Stack Starter</copyright>
-        <lastBuildDate>Sat, 23 Nov 2024 19:40:42 +0800</lastBuildDate><atom:link href="http://localhost:51650/categories/sci-fi/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 28 Oct 2024 19:40:42 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/sci-fi/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Rainthm</title>
-        <link>http://localhost:51650/p/rainthm/</link>
-        <pubDate>Sat, 23 Nov 2024 19:40:42 +0800</pubDate>
+        <link>http://localhost:1313/p/rainthm/</link>
+        <pubDate>Mon, 28 Oct 2024 19:40:42 +0800</pubDate>
         
-        <guid>http://localhost:51650/p/rainthm/</guid>
-        <description>&lt;img src="http://localhost:51650/p/rainthm/cover.png" alt="Featured image of post Rainthm" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+        <guid>http://localhost:1313/p/rainthm/</guid>
+        <description>&lt;img src="http://localhost:1313/p/rainthm/cover.png" alt="Featured image of post Rainthm" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Rainthm&lt;/strong&gt;(Rain + Rhythm) is a platformer + rhythm game set in a futuristic pixel world. Players can control &lt;em&gt;Ash&lt;/em&gt;, the cyber witch, to move around the map and slash falling notes(Rains) on time.&lt;/p&gt;
 &lt;h3 id=&#34;more-infos&#34;&gt;More infos:
 &lt;/h3&gt;&lt;ul&gt;
@@ -39,11 +39,11 @@
         </item>
         <item>
         <title>Fish-Dang Bot: Rolling Laud</title>
-        <link>http://localhost:51650/p/fish-dang-bot-rolling-laud/</link>
-        <pubDate>Sat, 23 Nov 2024 16:40:28 +0800</pubDate>
+        <link>http://localhost:1313/p/fish-dang-bot-rolling-laud/</link>
+        <pubDate>Mon, 14 Oct 2024 16:40:28 +0800</pubDate>
         
-        <guid>http://localhost:51650/p/fish-dang-bot-rolling-laud/</guid>
-        <description>&lt;img src="http://localhost:51650/p/fish-dang-bot-rolling-laud/cover.png" alt="Featured image of post Fish-Dang Bot: Rolling Laud" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+        <guid>http://localhost:1313/p/fish-dang-bot-rolling-laud/</guid>
+        <description>&lt;img src="http://localhost:1313/p/fish-dang-bot-rolling-laud/cover.png" alt="Featured image of post Fish-Dang Bot: Rolling Laud" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Fish-Dang Bot: Rolling Laud&lt;/strong&gt; is a platformer about a fish who dreams to be a dung beetle. The interesting part of this game is that players can enlarge the dung into a stepping stone via rolling them in the dung pool.&lt;/p&gt;
 &lt;h3 id=&#34;more-infos&#34;&gt;More Infos:
 &lt;/h3&gt;&lt;ul&gt;

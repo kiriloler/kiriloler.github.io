@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Hi! This is kiriloler</title>
-        <link>http://localhost:51650/post/</link>
+        <link>http://localhost:1313/post/</link>
         <description>Recent content in Posts on Hi! This is kiriloler</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Hugo Theme Stack Starter</copyright>
-        <lastBuildDate>Thu, 28 Nov 2024 17:16:45 +0800</lastBuildDate><atom:link href="http://localhost:51650/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 28 Oct 2024 20:16:45 +0800</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>TPH</title>
-        <link>http://localhost:51650/p/tph/</link>
-        <pubDate>Thu, 28 Nov 2024 17:16:45 +0800</pubDate>
+        <link>http://localhost:1313/p/tph/</link>
+        <pubDate>Mon, 28 Oct 2024 20:16:45 +0800</pubDate>
         
-        <guid>http://localhost:51650/p/tph/</guid>
-        <description>&lt;img src="http://localhost:51650/p/tph/cover.png" alt="Featured image of post TPH" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+        <guid>http://localhost:1313/p/tph/</guid>
+        <description>&lt;img src="http://localhost:1313/p/tph/cover.png" alt="Featured image of post TPH" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;&lt;strong&gt;T.P.H.&lt;/strong&gt; is a 2D horror game incorporated with art styles of weirdcore and analog horror. Players will navigate the scientific department of T.P.H., a &lt;font color=Red&gt;deadly&lt;/font&gt; and &lt;font color=Red&gt;dreamy&lt;/font&gt; place. The core mechanics of &lt;strong&gt;T.P.H.&lt;/strong&gt; is interacting with different text descriptions to obtain tools and discover puzzles.&lt;/p&gt;
 &lt;h3 id=&#34;more-infos&#34;&gt;More Infos
 &lt;/h3&gt;&lt;ul&gt;
@@ -39,11 +39,11 @@
         </item>
         <item>
         <title>Rainthm</title>
-        <link>http://localhost:51650/p/rainthm/</link>
-        <pubDate>Sat, 23 Nov 2024 19:40:42 +0800</pubDate>
+        <link>http://localhost:1313/p/rainthm/</link>
+        <pubDate>Mon, 28 Oct 2024 19:40:42 +0800</pubDate>
         
-        <guid>http://localhost:51650/p/rainthm/</guid>
-        <description>&lt;img src="http://localhost:51650/p/rainthm/cover.png" alt="Featured image of post Rainthm" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+        <guid>http://localhost:1313/p/rainthm/</guid>
+        <description>&lt;img src="http://localhost:1313/p/rainthm/cover.png" alt="Featured image of post Rainthm" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Rainthm&lt;/strong&gt;(Rain + Rhythm) is a platformer + rhythm game set in a futuristic pixel world. Players can control &lt;em&gt;Ash&lt;/em&gt;, the cyber witch, to move around the map and slash falling notes(Rains) on time.&lt;/p&gt;
 &lt;h3 id=&#34;more-infos&#34;&gt;More infos:
 &lt;/h3&gt;&lt;ul&gt;
@@ -69,11 +69,11 @@
         </item>
         <item>
         <title>Let Me Do It For You</title>
-        <link>http://localhost:51650/p/let-me-do-it-for-you/</link>
-        <pubDate>Sat, 23 Nov 2024 18:40:39 +0800</pubDate>
+        <link>http://localhost:1313/p/let-me-do-it-for-you/</link>
+        <pubDate>Mon, 28 Oct 2024 18:40:39 +0800</pubDate>
         
-        <guid>http://localhost:51650/p/let-me-do-it-for-you/</guid>
-        <description>&lt;img src="http://localhost:51650/p/let-me-do-it-for-you/cover.png" alt="Featured image of post Let Me Do It For You" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+        <guid>http://localhost:1313/p/let-me-do-it-for-you/</guid>
+        <description>&lt;img src="http://localhost:1313/p/let-me-do-it-for-you/cover.png" alt="Featured image of post Let Me Do It For You" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Let Me Do It For You&lt;/strong&gt; is a weird platformer about a dog who can extend his nose and, not only the nose can stretch GREAT GREAT GREAT distance, it can also change directions lmao.&lt;/p&gt;
 &lt;h3 id=&#34;more-infos&#34;&gt;More Infos:
 &lt;/h3&gt;&lt;ul&gt;
@@ -97,11 +97,11 @@
         </item>
         <item>
         <title>Quazo&#39;s Gambit</title>
-        <link>http://localhost:51650/p/quazos-gambit/</link>
-        <pubDate>Sat, 23 Nov 2024 17:38:43 +0800</pubDate>
+        <link>http://localhost:1313/p/quazos-gambit/</link>
+        <pubDate>Wed, 23 Oct 2024 17:38:43 +0800</pubDate>
         
-        <guid>http://localhost:51650/p/quazos-gambit/</guid>
-        <description>&lt;img src="http://localhost:51650/p/quazos-gambit/cover.png" alt="Featured image of post Quazo&#39;s Gambit" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+        <guid>http://localhost:1313/p/quazos-gambit/</guid>
+        <description>&lt;img src="http://localhost:1313/p/quazos-gambit/cover.png" alt="Featured image of post Quazo&#39;s Gambit" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Quazo&amp;rsquo;s Gambit&lt;/strong&gt; is a 4 player PVP boardgame set in a fantasy magical world. Players will start with one of the four characters, each with different skills and properties. The goal of the game is store as many jewels as possible in the center bank. To achieve the goal, players can either collect jewels around the map, or steal from other players via battles.&lt;/p&gt;
 &lt;h3 id=&#34;more-infos&#34;&gt;More Infos:
 &lt;/h3&gt;&lt;ul&gt;
@@ -138,12 +138,39 @@
 </description>
         </item>
         <item>
-        <title>Fish-Dang Bot: Rolling Laud</title>
-        <link>http://localhost:51650/p/fish-dang-bot-rolling-laud/</link>
-        <pubDate>Sat, 23 Nov 2024 16:40:28 +0800</pubDate>
+        <title>By Your Side</title>
+        <link>http://localhost:1313/p/by-your-side/</link>
+        <pubDate>Sun, 20 Oct 2024 14:39:10 +0800</pubDate>
         
-        <guid>http://localhost:51650/p/fish-dang-bot-rolling-laud/</guid>
-        <description>&lt;img src="http://localhost:51650/p/fish-dang-bot-rolling-laud/cover.png" alt="Featured image of post Fish-Dang Bot: Rolling Laud" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+        <guid>http://localhost:1313/p/by-your-side/</guid>
+        <description>&lt;img src="http://localhost:1313/p/by-your-side/cover.png" alt="Featured image of post By Your Side" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;By Your Side&lt;/strong&gt; is a rhythm game centered around the theme of school bullying. The game tells narrates via the diary of a boy abused by his classmates. One notable feature is the notes players will encounter. Aside from traditional notes in rhythm games, I add some new notes to enrich the game content.&lt;/p&gt;
+&lt;div align=center&gt;&lt;img src=&#34;1.png&#34; width=33%&gt;&lt;img src=&#34;2.png&#34; width=33%&gt;&lt;img src=&#34;3.png&#34; width=33%&gt;&lt;/div&gt;
+&lt;h3 id=&#34;more-infos&#34;&gt;More Infos
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Link to itch.io: &lt;a class=&#34;link&#34; href=&#34;https://kiriloler.itch.io/by-your-side&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://kiriloler.itch.io/by-your-side&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;personal-thoughts&#34;&gt;Personal Thoughts
+&lt;/h2&gt;&lt;h3 id=&#34;beginning&#34;&gt;Beginning
+&lt;/h3&gt;&lt;p&gt;This is my first attempt on developing a game from scratch. From scripts and art assets to stories and animations, I faced so many challenges that almost made me give up. There are times when I completely lost focus, times when I can&amp;rsquo;t understands the codes I wrote, times when I want to delete the art works I made. Tough and frustrating, I gradually learn from those experiences. I start to add annotations to my codes, properly organize my files, and cope with my anxiousness when the outcomes are disappointing. Over months of developments and iterations, I finally came up with a completed playable prototype. Looking back from now, &lt;em&gt;By Your Side&lt;/em&gt; might not be my best project, but it is my favorite one. Those painful memories I do not wish to recap is also the ones that embraced me during difficult times, encouraged me to move on. &lt;em&gt;I had been through harsh times, and I will get through this one too.&lt;/em&gt;&lt;/p&gt;
+&lt;div align=center&gt;&lt;img src=&#34;BG copy.png&#34;&gt;&lt;/div&gt;
+&lt;h3 id=&#34;music&#34;&gt;Music
+&lt;/h3&gt;&lt;p&gt;To be honest, the soundtracks I made for this game is kinda unpolished. For each music piece, I simply add a main instrument for melody and a drum for beats. Still, I do love those soundtracks, probably maybe because me as creator tend to neglect the drawbacks of my works. But, partly, I love them because they echoes the melodies in my heart. The delightfulness, hopes and dreams in the playground, the distress, oppression when abused, the hollow, illusional voices in dreams&amp;hellip;&amp;hellip;I had put them into this small, simple soundtrack, and I hope you enjoy it.&lt;/p&gt;
+&lt;h3 id=&#34;lisa&#34;&gt;Lisa
+&lt;/h3&gt;&lt;p&gt;Roses are no longer the red of pain,&lt;/p&gt;
+&lt;p&gt;Skies shall not anymore be blue.&lt;/p&gt;
+&lt;p&gt;May the world immersed in purple rain,&lt;/p&gt;
+&lt;p&gt;And I fallen to you.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Fish-Dang Bot: Rolling Laud</title>
+        <link>http://localhost:1313/p/fish-dang-bot-rolling-laud/</link>
+        <pubDate>Mon, 14 Oct 2024 16:40:28 +0800</pubDate>
+        
+        <guid>http://localhost:1313/p/fish-dang-bot-rolling-laud/</guid>
+        <description>&lt;img src="http://localhost:1313/p/fish-dang-bot-rolling-laud/cover.png" alt="Featured image of post Fish-Dang Bot: Rolling Laud" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Fish-Dang Bot: Rolling Laud&lt;/strong&gt; is a platformer about a fish who dreams to be a dung beetle. The interesting part of this game is that players can enlarge the dung into a stepping stone via rolling them in the dung pool.&lt;/p&gt;
 &lt;h3 id=&#34;more-infos&#34;&gt;More Infos:
 &lt;/h3&gt;&lt;ul&gt;
@@ -169,33 +196,6 @@
 &lt;li&gt;Always make sure the members are using the same Unity versions&lt;/li&gt;
 &lt;li&gt;do not touch the project files of others!!!!!&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-        </item>
-        <item>
-        <title>By Your Side</title>
-        <link>http://localhost:51650/p/by-your-side/</link>
-        <pubDate>Sat, 23 Nov 2024 14:39:10 +0800</pubDate>
-        
-        <guid>http://localhost:51650/p/by-your-side/</guid>
-        <description>&lt;img src="http://localhost:51650/p/by-your-side/cover.png" alt="Featured image of post By Your Side" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction
-&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;By Your Side&lt;/strong&gt; is a rhythm game centered around the theme of school bullying. The game tells narrates via the diary of a boy abused by his classmates. One notable feature is the notes players will encounter. Aside from traditional notes in rhythm games, I add some new notes to enrich the game content.&lt;/p&gt;
-&lt;div align=center&gt;&lt;img src=&#34;1.png&#34; width=33%&gt;&lt;img src=&#34;2.png&#34; width=33%&gt;&lt;img src=&#34;3.png&#34; width=33%&gt;&lt;/div&gt;
-&lt;h3 id=&#34;more-infos&#34;&gt;More Infos
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Link to itch.io: &lt;a class=&#34;link&#34; href=&#34;https://kiriloler.itch.io/by-your-side&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://kiriloler.itch.io/by-your-side&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;personal-thoughts&#34;&gt;Personal Thoughts
-&lt;/h2&gt;&lt;h3 id=&#34;beginning&#34;&gt;Beginning
-&lt;/h3&gt;&lt;p&gt;This is my first attempt on developing a game from scratch. From scripts and art assets to stories and animations, I faced so many challenges that almost made me give up. There are times when I completely lost focus, times when I can&amp;rsquo;t understands the codes I wrote, times when I want to delete the art works I made. Tough and frustrating, I gradually learn from those experiences. I start to add annotations to my codes, properly organize my files, and cope with my anxiousness when the outcomes are disappointing. Over months of developments and iterations, I finally came up with a completed playable prototype. Looking back from now, &lt;em&gt;By Your Side&lt;/em&gt; might not be my best project, but it is my favorite one. Those painful memories I do not wish to recap is also the ones that embraced me during difficult times, encouraged me to move on. &lt;em&gt;I had been through harsh times, and I will get through this one too.&lt;/em&gt;&lt;/p&gt;
-&lt;div align=center&gt;&lt;img src=&#34;BG copy.png&#34;&gt;&lt;/div&gt;
-&lt;h3 id=&#34;music&#34;&gt;Music
-&lt;/h3&gt;&lt;p&gt;To be honest, the soundtracks I made for this game is kinda unpolished. For each music piece, I simply add a main instrument for melody and a drum for beats. Still, I do love those soundtracks, probably maybe because me as creator tend to neglect the drawbacks of my works. But, partly, I love them because they echoes the melodies in my heart. The delightfulness, hopes and dreams in the playground, the distress, oppression when abused, the hollow, illusional voices in dreams&amp;hellip;&amp;hellip;I had put them into this small, simple soundtrack, and I hope you enjoy it.&lt;/p&gt;
-&lt;h3 id=&#34;lisa&#34;&gt;Lisa
-&lt;/h3&gt;&lt;p&gt;Roses are no longer the red of pain,&lt;/p&gt;
-&lt;p&gt;Skies shall not anymore be blue.&lt;/p&gt;
-&lt;p&gt;May the world immersed in purple rain,&lt;/p&gt;
-&lt;p&gt;And I fallen to you.&lt;/p&gt;
 </description>
         </item>
         
